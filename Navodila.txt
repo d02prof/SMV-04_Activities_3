@@ -1,0 +1,7 @@
+//TODO  Navodila: Youtube / Code in Flow /
+
+//TODO  Send Data Back from Child Activity with startActivityForResult (https://www.youtube.com/watch?v=AD5qt7xoUU8)
+
+//TODO  How to Open a New Activity and Pass Variables to It (Navodila: https://www.youtube.com/watch?v=eL69kj-_Wvs)
+
+//TODO  How to Make a Button Open a New Activity (https://www.youtube.com/watch?v=bgIUdb-7Rqo)
